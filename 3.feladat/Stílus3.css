@@ -1,0 +1,12 @@
+p{
+    width: 20%;
+    padding: 10px;
+    margin: 1%;
+    background-color: lavenderblush;
+}
+
+p::first-letter{
+    font-size: 180%;
+    text-size-adjust: bolder;
+    color: red;
+}
